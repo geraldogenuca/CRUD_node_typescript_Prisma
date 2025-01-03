@@ -1,2 +1,2 @@
-# CRUD_nodeJS_Sequelize
-REST API in node js and Sequelize ORM.
+# CRUD_node_typescript_Prisma
+REST API in node typescript and Prisma ORM.
